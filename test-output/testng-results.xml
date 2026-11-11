@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-11T13:23:59 IST" name="Default suite" finished-at="2026-11-11T13:24:09 IST" duration-ms="10157">
+    <groups>
+    </groups>
+    <test started-at="2026-11-11T13:23:59 IST" name="Default test" finished-at="2026-11-11T13:24:09 IST" duration-ms="10157">
+      <class name="requestChaining.Scenario1_Delete_project">
+        <test-method signature="postDataToServer()[pri:0, instance:requestChaining.Scenario1_Delete_project@1a677343]" started-at="2026-11-11T13:23:59 IST" name="postDataToServer" finished-at="2026-11-11T13:24:09 IST" duration-ms="10001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDataToServer -->
+      </class> <!-- requestChaining.Scenario1_Delete_project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
